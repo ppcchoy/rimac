@@ -1,2 +1,2 @@
 # rimac
-detection vehicle speed
+detection vehicle speed by using a Raspberry Pi 2 and OpenCV
